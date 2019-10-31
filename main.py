@@ -130,6 +130,6 @@ while True:
         print("YOU WIN")
         print(hplan)
     
-    restart=input('restart ? Y/N')
+    restart=input('restart ? Y/N\n')
     if restart=='N':
         break
